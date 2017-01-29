@@ -1,2 +1,2 @@
 # datasciencecoursera
-Data Science at Coursera
+Repository dor Data Science Tools at Coursera
